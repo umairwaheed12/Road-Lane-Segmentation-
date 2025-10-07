@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+numpy
+Pillow
+matplotlib
+sahi
+inference_sdk
