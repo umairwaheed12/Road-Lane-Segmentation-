@@ -1,4 +1,4 @@
-# Lane & Vehicle Dashboard Video Processing
+# Lane segmentation & Vehicle Dashboard 
 
 This project processes a video to detect road lanes and vehicles, overlays a real-time dashboard with lane metrics, vehicle counts, and a mini-map. It leverages **Roboflow's lane detection API** and **YOLOv11-L** object detection model (via SAHI slicing for better detection in high-resolution frames).
 
